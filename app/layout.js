@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Wallet Overview | Sepolia Explorer",
-  description: "Explore an Ethereum Sepolia wallet balance and recent transactions.",
+  title: "Wallet Overview | Ethereum Explorer",
+  description: "Explore a wallet's balance, transactions and tokens on Ethereum mainnet or Sepolia.",
 };
 
 export default function RootLayout({ children }) {
